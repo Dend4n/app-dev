@@ -5,7 +5,7 @@ My first repository
 2. Danmachi
 3. Jurassic Series
 |   Movie/Anime   |   Main Characters   |
-|-----------------|---------------------|
+|:----------------|--------------------:|
 |Arcane|Jinx|
 |Arcane|Vi|
 |Danmachi|Bell Cranel|
